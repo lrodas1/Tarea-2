@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header{
+    background: cadetblue;
+}
+
+.navegacion{
+    padding: 1%;
+    background: linear-gradient(#3b3187, #46a7eb);
+}
+
+.navegacion nav a{
+    padding: 1%;
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+}
+
+.navegacion nav a:hover{
+    background: #34495e;
+    color: white;
+}
+
+.logo img{
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.container{
+    background: white;
+    display: inline-flex;
+}
+
+table{
+    border:3px solid black;
+    border-collapse: collapse;
+}
+
+h2{
+    color: white;
+}
+
+p{
+    color: white;
+    text-align: justify;
+}
+
+table td{
+    border: 1px solid black;
+    padding-right: 1%;
+}
+
+tr{
+    background: silver;
+}
+
+li{
+    margin: 25px;
+    text-decoration: none;
+    list-style: none;
+}
+
+aside ul{
+    color: white;
+}
+
+section{
+    padding: 1%;
+    margin: 1%;
+    background: #34495e;
+}
+
+article{
+    padding: 3%;
+}
+
+.tabla{
+    padding-top: 2%;
+}
+
+aside{
+    margin: 1%;
+    padding: 1%;
+    background:#34495e;
+}
+
+footer{
+    padding: 1%;
+    background: linear-gradient(#3b3187, #46a7eb);
+}
